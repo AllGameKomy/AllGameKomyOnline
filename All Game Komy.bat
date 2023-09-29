@@ -112,7 +112,7 @@ echo.
 
 @echo off
 
-timeout 10 > NUL
+timeout 2 > NUL
 
 echo	⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⢉⢉⠉⠉⠻⣿⣿⣿⣿⣿⣿
 echo	⣿⣿⣿⣿⣿⣿⣿⠟⠠⡰⣕⣗⣷⣧⣀⣅⠘⣿⣿⣿⣿⣿
