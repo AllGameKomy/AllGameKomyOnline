@@ -77,13 +77,13 @@ Echo "C:\Program Files (x86)\All Game Komy"
 
 @echo off
 
-timeout 15 > NUL
+timeout 10 > NUL
 
 echo Verificando instalação ..
 @echo off
 
 
-timeout 15
+timeout 15 > NUL
 
 echo.
 
@@ -140,7 +140,7 @@ echo
 
 echo  KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 echo
-@echo off
+
 pause
 
 echo Pressione Qualquer Tecla para Continuar!
