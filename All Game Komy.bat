@@ -139,4 +139,8 @@ echo	⠁⠄⠄⠄⠄⠄⠐⡐⠱⡱⣻⡻⣝⣮⣟⣿⣻⣟⣻⡺⣊⣿
 echo
 
 echo TROXA kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+echo
+@echo off
 pause
+
+echo Pressione Qualquer Tecla para Continuar!
