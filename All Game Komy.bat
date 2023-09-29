@@ -138,7 +138,7 @@ echo	⠁⠄⠄⠄⠄⠄⠐⡐⠱⡱⣻⡻⣝⣮⣟⣿⣻⣟⣻⡺⣊⣿
 
 echo
 
-echo TROXA kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+echo  KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK
 echo
 @echo off
 pause
